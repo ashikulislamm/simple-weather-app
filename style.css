@@ -14,10 +14,18 @@ body {
     max-width: 470px;
     background: linear-gradient(135deg, #67b26f, #4ca2cd);
     color: #fff;
-    margin: 100px auto 0;
+    margin: 50px auto 10px;
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 35px;
+    font-weight: 400;
+    margin-top: -5px;
 }
 
 .search{
